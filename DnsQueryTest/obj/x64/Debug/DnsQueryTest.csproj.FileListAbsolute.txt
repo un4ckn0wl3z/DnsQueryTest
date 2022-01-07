@@ -1,0 +1,6 @@
+C:\Users\anuwat\source\repos\DnsQueryTest\DnsQueryTest\bin\x64\Debug\DnsQueryTest.exe.config
+C:\Users\anuwat\source\repos\DnsQueryTest\DnsQueryTest\bin\x64\Debug\DnsQueryTest.exe
+C:\Users\anuwat\source\repos\DnsQueryTest\DnsQueryTest\bin\x64\Debug\DnsQueryTest.pdb
+C:\Users\anuwat\source\repos\DnsQueryTest\DnsQueryTest\obj\x64\Debug\DnsQueryTest.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\DnsQueryTest\DnsQueryTest\obj\x64\Debug\DnsQueryTest.exe
+C:\Users\anuwat\source\repos\DnsQueryTest\DnsQueryTest\obj\x64\Debug\DnsQueryTest.pdb
